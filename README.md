@@ -75,6 +75,4 @@ The frontend will run on http://localhost:3000
 - Vector Search: FAISS
 - File Storage: Local filesystem
 
-## License
 
-MIT License 
